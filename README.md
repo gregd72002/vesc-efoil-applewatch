@@ -5,3 +5,5 @@ The code is a bit of a mess, but it works.
 The premise for the app for me was check live stats for my self build foil assist. 
 
 Tested with VESC 6.3.
+
+Some of the classes are fully converted from vesc-tool. Meaning, it is an easy lift to add further VESC functionality. Long live GROK AI as without it, the project would never be accomplished.
