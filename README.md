@@ -7,3 +7,7 @@ The premise for the app for me was check live stats for my self build foil assis
 Tested with VESC 6.3.
 
 Some of the classes are fully converted from vesc-tool. Meaning, it is an easy lift to add further VESC functionality. Long live GROK AI as without it, the project would never be accomplished.
+
+
+![Project Screenshot](https://github.com/gregd72002/vesc-efoil-applewatch/blob/main/Screenshots/152F50F3-457D-407A-B698-1D660D7C2808_4_5005_c.jpeg)
+![Project Screenshot](https://github.com/gregd72002/vesc-efoil-applewatch/blob/main/Screenshots/513EC12C-9A4A-454A-BE7F-EA0C89FB63D4_4_5005_c.jpeg)
