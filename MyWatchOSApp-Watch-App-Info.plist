@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>UIBackgroundModes</key>
+	<array>
+		<string>bluetooth-central</string>
+	</array>
+	<key>WKBackgroundModes</key>
+	<array/>
+	<!-- Bluetooth Usage Description -->
+    	<key>NSBluetoothAlwaysUsageDescription</key>
+    	<string>This app requires Bluetooth to connect to your device for [describe purpose, e.g., data transfer or device control].</string>
+    
+    	<!-- Optional: For older iOS versions (pre-iOS 13) -->
+    	<key>NSBluetoothPeripheralUsageDescription</key>
+    	<string>This app requires Bluetooth to connect to your device for [describe purpose].</string>
+</dict>
+</plist>
